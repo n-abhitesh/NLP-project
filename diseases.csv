@@ -1,0 +1,31 @@
+Description,D_Name
+"bone, muscle, ear, otitis, hearing, membrane, tinnitus, ossicles, eustachian tube",musculoskeletal
+"ear, otitis, hearing, throat, sinusitis, bleeding, congestion, nose, tonsillitis",ear_nose
+"ventilation, oxygen, airway, copd, breathing, asthma, bronchitis, lung, pneumonia",respiratory
+"fever, fatigue, rash, joint pain, headache, mosquito, virus, vector, epidemic",infection
+"insulin, glucose, pancreas, sugar, hyperglycemia, hypoglycemia, metabolic, diabetes, endocrinology",diabetes
+"cardiac, heart, artery, atherosclerosis, cholesterol, hypertension, arrhythmia, stroke, blood pressure",cardiovascular
+"neurons, brain, spinal cord, nerve, epilepsy, seizure, migraine, cognitive, neurology",neurological
+"kidney, dialysis, nephron, urine, renal, urea, creatinine, electrolyte, nephrology",renal
+"stomach, intestine, liver, pancreas, digestion, ulcer, hepatitis, gastrointestinal, gastroenterology",digestive
+"muscle, joint, arthritis, autoimmune, inflammation, connective tissue, rheumatology",rheumatology
+"skin, rash, dermatitis, eczema, psoriasis, acne, melanoma, dermatology",dermatological
+"eyes, vision, cataract, glaucoma, retina, optic nerve, ophthalmology",ocular
+"blood, anemia, hemoglobin, platelet, leukemia, lymphoma, bone marrow, hematology",hematological
+"reproduction, hormone, fertility, ovary, uterus, menstrual, gynecology, obstetrics",gynecological
+"prostate, urinary, bladder, erectile, incontinence, urology, sexual health",urological
+"immune system, antibody, antigen, allergy, hypersensitivity, immunodeficiency, immunology",immunological
+"infection, bacteria, antibiotic, resistance, sepsis, pathogen, infectious disease",infectious
+"growth, cell, tumor, malignancy, metastasis, chemotherapy, oncology",oncological
+"mental, depression, anxiety, schizophrenia, bipolar, therapy, psychiatry",psychological
+"thyroid, hormone, metabolism, hyperthyroidism, hypothyroidism, endocrinology",endocrinological
+"sleep, apnea, insomnia, narcolepsy, circadian rhythm, fatigue, rest",sleep_disorder
+"nutrition, vitamin, mineral, deficiency, diet, metabolism, obesity, dietary",dietary
+"pain, injury, chronic, acute, management, therapy, analgesic",pain_management
+"bone, density, osteoporosis, fracture, calcium, orthopedics, skeletal",orthopedic
+"genetic, hereditary, dna, mutation, syndrome, congenital, genome",genetic_disorder
+"hearing, ear, auditory, cochlea, hearing loss, sound, tinnitus",auditory
+"vision, eye, sight, blindness, retina, cornea, optic",visual
+"lung, breathing, respiratory, oxygen, bronchitis, pneumonia, asthma",pulmonary
+"inflammation, tissue, pain, swelling, infection, response, immune",inflammatory
+"nerve, brain, spinal cord, neuropathy, neurology, nerve damage",neurological
